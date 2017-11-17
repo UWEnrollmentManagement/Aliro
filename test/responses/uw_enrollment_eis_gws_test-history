@@ -1,0 +1,109 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+
+
+
+
+
+<div>
+
+    History of UW Enrollment Test Group for GWS
+    <br/>
+    Regid: <span class="regid">76c9668f17284516a047e1e1181abff2</span>
+    <br/>
+
+    <ul class="historylist">
+        <li class="history" date="1507937578338" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'google' to inactive (forward=sender=none)"/>
+        <li class="history" date="1507937578200" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to inactive (forward=fwd=)"/>
+        <li class="history" date="1507928120233" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'google' to active (forward=sender=none)"/>
+        <li class="history" date="1507928120171" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to active (forward=fwd=uw_enrollment_eis_gws_test@gamail.uw.edu)"/>
+        <li class="history" date="1507928101660" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to inactive (forward=fwd=)"/>
+        <li class="history" date="1507928101333" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to disabled"/>
+        <li class="history" date="1507927956315" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to active (forward=fwd=uw_enrollment_eis_gws_test@exchange.washington.edu)"/>
+        <li class="history" date="1507927956244" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to uwexchange"/>
+        <li class="history" date="1507927945644" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to inactive (forward=fwd=)"/>
+        <li class="history" date="1507927945565" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to disabled"/>
+        <li class="history" date="1507927921403" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to active (forward=fwd=uw_enrollment_eis_gws_test@exchange.washington.edu)"/>
+        <li class="history" date="1507927921346" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to uwexchange"/>
+        <li class="history" date="1507927762939" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to inactive (forward=fwd=)"/>
+        <li class="history" date="1507927762867" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to disabled"/>
+        <li class="history" date="1507927681684" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to active (forward=fwd=uw_enrollment_eis_gws_test@exchange.washington.edu)"/>
+        <li class="history" date="1507927681558" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to uwexchange"/>
+        <li class="history" date="1507927538678" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to inactive (forward=fwd=)"/>
+        <li class="history" date="1507927538520" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to disabled"/>
+        <li class="history" date="1507926457960" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="add authorized-senders: 'EveryEntity'"/>
+        <li class="history" date="1507848662593" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="affiliate" description="set affiliate 'netid' to active (forward=fwd=uw_enrollment_eis_gws_test@exchange.washington.edu)"/>
+        <li class="history" date="1507848662524" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'published-addr' to uw"/>
+        <li class="history" date="1507848662413" user="bonifacp" actAs="GrouperSysAdmin"
+            activity="attribute" description="set attribute 'email-enabled' to uwexchange"/>
+        <li class="history" date="1507659035977" user="bonifacp" actAs=""
+            activity="membership" description="add member: 'jschilz'"/>
+        <li class="history" date="1507658979205" user="bonifacp" actAs=""
+            activity="membership" description="add member: 'elizaw7'"/>
+        <li class="history" date="1507658979116" user="bonifacp" actAs=""
+            activity="membership" description="add member: 'bonifacp'"/>
+        <li class="history" date="1507658978952" user="bonifacp" actAs=""
+            activity="acl" description="set admin acl for: 'elizaw7'"/>
+        <li class="history" date="1507658978759" user="bonifacp" actAs=""
+            activity="acl" description="set stem acl for: 'elizaw7'"/>
+        <li class="history" date="1507658978487" user="bonifacp" actAs=""
+            activity="acl" description="set create acl for: 'elizaw7'"/>
+        <li class="history" date="1507658978431" user="bonifacp" actAs=""
+            activity="acl" description="set create acl for: 'bonifacp'"/>
+        <li class="history" date="1507658977897" user="bonifacp" actAs=""
+            activity="acl" description="set read acl for: 'EveryEntity'"/>
+        <li class="history" date="1507658977813" user="bonifacp" actAs=""
+            activity="acl" description="set read acl for: 'elizaw7'"/>
+        <li class="history" date="1507658977760" user="bonifacp" actAs=""
+            activity="acl" description="set read acl for: 'bonifacp'"/>
+        <li class="history" date="1507658977543" user="bonifacp" actAs=""
+            activity="acl" description="set update acl for: 'elizaw7'"/>
+        <li class="history" date="1507658977454" user="bonifacp" actAs=""
+            activity="acl" description="set update acl for: 'bonifacp'"/>
+        <li class="history" date="1507658977235" user="bonifacp" actAs=""
+            activity="attribute" description="set attribute 'contact' to bonifacp"/>
+        <li class="history" date="1507658977145" user="bonifacp" actAs=""
+            activity="attribute" description="set attribute 'email-enabled' to disabled"/>
+        <li class="history" date="1507658977043" user="bonifacp" actAs=""
+            activity="assignGroupType" description="Assigned group type: uw:enrollment:eis:gws:test, typeId: 609f66135be24c68aea37c46efa7f381, to group: uw:enrollment:eis:gws:test, groupId: 76c9668f17284516a047e1e1181abff2"/>
+        <li class="history" date="1507658976941" user="bonifacp" actAs=""
+            activity="group" description="description='This group is designed to test the EIS GWS abstraction code. Any changes may affect the tests.'| "/>
+        <li class="history" date="1507658976841" user="bonifacp" actAs=""
+            activity="group" description="created: 'uw_enrollment_eis_gws_test'"/>
+    </ul>
+
+</div>
+
+
+</body>
+</html>

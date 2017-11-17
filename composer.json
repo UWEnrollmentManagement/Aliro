@@ -1,0 +1,33 @@
+{
+  "name": "uwdoem/aliro",
+  "description": "Slim.php middleware library for Authorizing users through the University of Washington Group and Person Web Services",
+  "authors": [
+      {
+          "name": "Page Bonifaci",
+          "email": "BonPacific@protonmail.com",
+          "role": "Developer"
+      }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "autoload-dev": {
+    "classmap": [
+      "test/"
+    ]
+  },
+  "require": {
+    "slim/slim": "^3.0",
+    "uwdoem/connection": "3.*",
+    "uwdoem/person": "^1.5.0",
+    "uwdoem/group": "^1.0.10"
+  },
+  "require-dev": {
+    "uwdoem/standard": "*",
+    "phpunit/phpunit": "6.*",
+    "codeclimate/php-test-reporter": "dev-master",
+    "squizlabs/php_codesniffer": "2.*"
+  }
+}

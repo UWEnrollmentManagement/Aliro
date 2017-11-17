@@ -1,0 +1,116 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--Mock Data-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+
+
+
+
+<div class="group" version="2">
+
+    Regid: <span class="regid">3ff762ad88924cdd80d5b376c4ba3e1d</span>
+    <br/>
+    <span class="names">
+ Name: <span class="name">uw_enrollment_eis</span>
+ </span>
+    <br/>
+    Title: <span class="title">EIS Team</span>
+    <br/>
+    Description: <span class="description">uw_enrollment_eis</span>
+    <br/>
+
+    Group contact: <span class="contact"></span>
+    <br/>
+
+    Created: <span class="createtime">1484941165753</span>
+    <br/>
+    Modified: <span class="modifytime">1484955095974</span>
+    <br/>
+    Membership modified: <span class="membermodifytime">1500306413978</span>
+    <br/>
+    Authn factor: <span class="authnfactor">1</span>
+    <br/>
+    Classification: <span class="classification">u</span>
+    <br/>
+    Membership dependency group: <span class="dependson"></span>
+    <br/>
+    GID: <span class="gid">394936</span>
+
+
+    <span class="affiliates">
+              <span class="affiliate" name="radius"
+                    status="active"                         />
+         <span class="affiliate" name="netid"
+               status="active"        forward="uw_enrollment_eis@exchange.washington.edu"                   />
+      </span>
+
+
+    Email Enabled: <span class="emailenabled">uwexchange</span>
+    <br/>
+
+    Published email address: <span class="publishemail">uw_enrollment_eis@uw.edu</span>
+    <br/>
+
+    Report to owner:
+    <span class="reporttoowner">no</span>
+    <br/>
+
+    Allowed senders: <ul class="authorigs">
+    <li class="authorig" type="none">dc=all</li>
+</ul>
+
+
+
+
+
+
+
+    Administrators:
+    <ul class="admins">
+        <li class="admin" type="uwnetid">adamsd3</li>
+        <li class="admin" type="uwnetid">dale</li>
+        <li class="admin" type="uwnetid">msaavedr</li>
+    </ul>
+    Updaters:
+    <ul class="updaters">
+        <li class="updater" type="uwnetid">helenbg</li>
+        <li class="updater" type="uwnetid">cfish</li>
+    </ul>
+    Creators:
+    <ul class="creators">
+        <li class="creator" type="uwnetid">elizaw7</li>
+        <li class="creator" type="uwnetid">jschilz</li>
+        <li class="creator" type="uwnetid">bonifacp</li>
+    </ul>
+    Readers:
+    <ul class="readers">
+        <li class="reader" type="none">dc=all</li>
+    </ul>
+
+    Optins:
+    <ul class="optins">
+    </ul>
+    Optouts:
+    <ul class="optouts">
+    </ul>
+
+    <br/>
+
+    Membership: <a rel="members" href="/group_sws/v2/group/3ff762ad88924cdd80d5b376c4ba3e1d/member">Membership</a>
+
+</div>
+
+<div class="status"></div>
+
+
+
+
+</body>
+</html>

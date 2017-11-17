@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+
+
+
+
+<div>
+    Search results
+    <p/>
+    <ul class="groupreferences">
+
+
+        <li class="groupreference">
+            <span class="regid">76c9668f17284516a047e1e1181abff2</span>
+            <span class="title">UW Enrollment Test Group for GWS</span>
+            <span class="description"></span>
+            <ul>
+                <li><a class="name" href="/group_sws/v2/group/76c9668f17284516a047e1e1181abff2">uw_enrollment_eis_gws_test</a></li>
+            </ul>
+        </li>
+
+
+    </ul>
+</div>
+
+<div class="status">${status}</div>
+
+
+</body>
+</html>
