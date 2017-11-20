@@ -2,11 +2,22 @@
   "name": "uwdoem/aliro",
   "description": "Slim.php middleware library for Authorizing users through the University of Washington Group and Person Web Services",
   "authors": [
-      {
-          "name": "Page Bonifaci",
-          "email": "BonPacific@protonmail.com",
-          "role": "Developer"
-      }
+    {
+        "name": "Page Bonifaci",
+        "email": "BonPacific@protonmail.com",
+        "role": "Developer"
+    },
+    {
+      "name": "Elizabeth Williams",
+      "email": "elizaw7@uw.edu",
+      "role": "Developer"
+    },
+    {
+      "name": "Joseph Schilz",
+      "email": "joseph@schilz.org",
+      "homepage": "https://www.schilz.org",
+      "role": "Developer"
+    }
   ],
   "autoload": {
     "classmap": [

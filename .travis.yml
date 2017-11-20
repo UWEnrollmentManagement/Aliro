@@ -1,0 +1,13 @@
+language: php
+php:
+  - 7.0
+addons:
+  code_climate:
+    repo_token: 609ab48709317f3dea471fdbcac2644fce9f8f70acfe40600e9378d8bcb6722d
+before_script:
+  - composer install
+script:
+  - ./vendor/bin/phpunit ./test/AliroTest.php
+  - ./vendor/bin/phpcs --ignore=*/vendor/*,*/test/*,*/bin/* --standard=./vendor/uwdoem/standard/ruleset.xml .
+after_script:
+  - vendor/bin/test-reporter
