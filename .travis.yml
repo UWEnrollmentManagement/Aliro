@@ -7,7 +7,6 @@ addons:
 before_script:
   - composer install
 script:
-  - ./vendor/bin/phpunit ./test/AliroTest.php
   - ./vendor/bin/phpcs --ignore=*/vendor/*,*/test/*,*/bin/* --standard=./vendor/uwdoem/standard/ruleset.xml .
 after_script:
   - vendor/bin/test-reporter

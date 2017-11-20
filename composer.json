@@ -21,11 +21,6 @@
       "src/"
     ]
   },
-  "autoload-dev": {
-    "classmap": [
-      "test/"
-    ]
-  },
   "require": {
     "slim/slim": "^3.0",
     "uwdoem/connection": "3.*",
@@ -34,8 +29,6 @@
   },
   "require-dev": {
     "uwdoem/standard": "*",
-    "phpunit/phpunit": "6.*",
-    "codeclimate/php-test-reporter": "dev-master",
     "squizlabs/php_codesniffer": "2.*"
   }
 }
