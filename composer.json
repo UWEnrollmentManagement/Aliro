@@ -3,14 +3,6 @@
   "description": "Slim.php middleware library for Authorizing users through the University of Washington Group and Person Web Services",
   "authors": [
     {
-        "name": "Page Bonifaci",
-        "email": "BonPacific@protonmail.com"
-    },
-    {
-      "name": "Elizabeth Williams",
-      "email": "wizzah@gmail.com"
-    },
-    {
       "name": "Joseph Schilz",
       "email": "joseph@schilz.org",
       "homepage": "https://www.schilz.org"
