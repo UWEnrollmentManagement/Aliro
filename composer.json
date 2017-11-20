@@ -4,16 +4,16 @@
   "authors": [
     {
         "name": "Page Bonifaci",
-        "email": "BonPacific@protonmail.com",
+        "email": "BonPacific@protonmail.com"
     },
     {
       "name": "Elizabeth Williams",
-      "email": "wizzah@gmail.com",
+      "email": "wizzah@gmail.com"
     },
     {
       "name": "Joseph Schilz",
       "email": "joseph@schilz.org",
-      "homepage": "https://www.schilz.org",
+      "homepage": "https://www.schilz.org"
     }
   ],
   "autoload": {
