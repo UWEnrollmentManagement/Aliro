@@ -58,8 +58,8 @@ class Aliro
 
         //Check if current user matches session. If not, clear session.
         if (
-            isset($_SERVER['uwnetid'])
-            && (isset($_SESSION['aliro']) === false || $_SERVER['uwnetid'] != $_SESSION['aliro']['uwnetid'])
+            isset($_SERVER['uwnetid']) === true
+            && (isset($_SESSION['aliro']) === false || $_SERVER['uwnetid'] !== $_SESSION['aliro']['uwnetid'])
         ) {
             unset($_SESSION['aliro']);
             $_SESSION['aliro'] = array();
