@@ -13,6 +13,9 @@ use UWDOEM\Group\Group;
  */
 class Aliro
 {
+    /** @const PERM_ALLOW_ALL */
+    const PERM_ALLOW_ALL = 'PERM_ALLOW_ALL';
+
     /** @var array */
     protected $appPermissions = [];
 
@@ -85,7 +88,14 @@ class Aliro
 
             // Loop through the groups with permissions, checking if user is in any of them
             foreach ($allowedGroups as $perm) {
+                if ($perm === 'PERM_ALLOW_ALL') {
+                    $letUserThrough = true;
+                    break;
+                }
+
                 // Check if we have a cached record of this user's group membership. If not go ahead and query the GWS
+
+
                 if (in_array($perm, $this->userGroups)=== true) {
                     // All good, user had permission
                     $letUserThrough = true;
